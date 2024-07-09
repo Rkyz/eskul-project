@@ -4,7 +4,7 @@ import Jumbotron from "../../../components/User/Dashboard/Jumbotron"
 import List from "../../../components/User/Dashboard/List"
 import Teacher from "../../../components/User/Dashboard/Teacher"
 import { Footer } from "../../../components/User/Dashboard/Footer"
-import Comment from "../../../components/User/Dashboard/comment"
+import Comment from "../../../components/User/Dashboard/Comment"
 import JumbotronAgain from "../../../components/User/Gallery/Jumbotron"
 
 const Dashboard = () => {
